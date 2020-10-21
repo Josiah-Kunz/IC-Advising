@@ -1,0 +1,1 @@
+connect2 -> faculty -> advising -> BluePrint 2.0 Courses by Category
